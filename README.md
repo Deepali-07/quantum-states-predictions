@@ -65,7 +65,7 @@ where `h` is Planck's constant. The project also includes a **Gradio interactive
 git clone https://github.com/your-username/quantum-states-prediction.git
 cd quantum-states-prediction
 
-## 2️⃣ Create Virtual Environment
+### 2️⃣ Create Virtual Environment
 python -m venv env
 # Activate environment
 # Windows:
@@ -73,16 +73,16 @@ env\Scripts\activate
 # Mac/Linux:
 source env/bin/activate
 
-## 3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the notebook
+### 4️⃣ Run the notebook
 
 Open quantum_states.ipynb in Jupyter or VSCode.
 
 Run all cells to generate dataset, train models, and test predictions.
 
-5️⃣ Launch the interactive Gradio demo
+### 5️⃣ Launch the interactive Gradio demo
 # In the notebook
 demo.launch()
 
