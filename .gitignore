@@ -1,0 +1,17 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+*.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model/scaler backups if very large (optional)
+*.pkl
