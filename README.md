@@ -86,5 +86,5 @@ Run all cells to generate dataset, train models, and test predictions.
 # In the notebook
 demo.launch()
 
-###Author
+👩‍💻 Author
 Deepali Madala
