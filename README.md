@@ -104,8 +104,11 @@ Open `quantum_states.ipynb` in Jupyter or VSCode. Run all cells to generate the 
 demo.launch()
 ```
 
-### 👩‍💻 Author
+## 👩‍🚀 Author
 
 **Deepali Madala**
+💫 AI & ML Engineer | Passionate about Space, Physics & AI Integration
+📧 (mailto:deepali.madala@gmail.com)
+🌍 [LinkedIn](www.linkedin.com/in/deepali-madala-53b252232) | [GitHub](https://github.com/Deepali-07)
 
 ```
